@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TRVTH-TRAVEL-AGENCY/static/css/main.6efc7c0e.css",
+    "main.js": "/TRVTH-TRAVEL-AGENCY/static/js/main.28cf7bae.js",
+    "static/media/Adventure.png": "/TRVTH-TRAVEL-AGENCY/static/media/Adventure.3b1168b577e745f6d4c9.png",
+    "static/media/netlify.png": "/TRVTH-TRAVEL-AGENCY/static/media/netlify.0ed85e72124e5c86fc1d.png",
+    "static/media/mee.jpg": "/TRVTH-TRAVEL-AGENCY/static/media/mee.3b7ea5f35f729734e010.jpg",
+    "static/media/react.png": "/TRVTH-TRAVEL-AGENCY/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/TRVTH-TRAVEL-AGENCY/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/bootstrap.png": "/TRVTH-TRAVEL-AGENCY/static/media/bootstrap.323492a55f3421bf0688.png",
+    "static/media/shopify.png": "/TRVTH-TRAVEL-AGENCY/static/media/shopify.9641093c9edaebe3e382.png",
+    "static/media/js.jpg": "/TRVTH-TRAVEL-AGENCY/static/media/js.d37684aea3d32640b359.jpg",
+    "static/media/tailwind.png": "/TRVTH-TRAVEL-AGENCY/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/TRVTH-TRAVEL-AGENCY/static/media/css.69a82c2d9e45c933a9cb.png",
+    "index.html": "/TRVTH-TRAVEL-AGENCY/index.html",
+    "main.6efc7c0e.css.map": "/TRVTH-TRAVEL-AGENCY/static/css/main.6efc7c0e.css.map",
+    "main.28cf7bae.js.map": "/TRVTH-TRAVEL-AGENCY/static/js/main.28cf7bae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6efc7c0e.css",
+    "static/js/main.28cf7bae.js"
+  ]
+}
